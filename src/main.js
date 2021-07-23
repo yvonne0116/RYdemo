@@ -14,7 +14,7 @@ Vue.use(VueRouter)
 const router = new VueRouter({
   routes:Routes,
   //消除地址栏中的#
-  mode:"history"
+  mode:"hash"
 })
 /* eslint-disable no-new */
 new Vue({
