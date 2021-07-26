@@ -1,9 +1,7 @@
 <template>
     <div>
         <el-card style="margin-top:-30px">
-            <p>
-                该商品已查询过
-            </p>
+            <p>该商品已查询过</p>
             <h2 style="color:red;">{{check_times}}</h2>
             <p>次</p>
         </el-card>
