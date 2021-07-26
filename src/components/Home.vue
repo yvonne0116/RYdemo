@@ -55,7 +55,8 @@ export default{
                 {path:'/Home/factory',navItem:'破壁生产',i:3,class:"el-icon-shopping-cart-2"},
                 {path:'/Home/quality',navItem:'产品质检',i:4,class:"el-icon-document"},
                 {path:'/Home/save',navItem:'仓储信息',i:5,class:"el-icon-truck"},
-                {path:'/Home/company',navItem:'品牌故事',i:6,class:'el-icon-medal'}
+                {path:'/Home/company',navItem:'品牌故事',i:6,class:'el-icon-medal'},
+                {path:'/Home/fake',navItem:'防伪查询',i:7,class:'el-icon-medal'}
             ],
             imgList:[
                 {

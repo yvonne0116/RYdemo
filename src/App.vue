@@ -29,6 +29,10 @@ export default {
   methods:{
 
 
+  },
+  mounted(){
+    // const { NODE_ENV} =process.env;
+    // document.documentElement.className=NODE_ENV;
   }
 }
 
@@ -56,4 +60,7 @@ body{
   margin:0 auto;
   text-align: center;
 }
+</style>
+<style>
+/* // // @import "~@assets/global.less"; */
 </style>
